@@ -3,6 +3,8 @@ I'm a junior C++ developer from Romania passionate about game/software developme
 
 ## SKILLS
 
+* C++
+
 ## PROJECTS
 Golden Town (2022) - https://github.com/Dezdemod/GoldenTown
 
