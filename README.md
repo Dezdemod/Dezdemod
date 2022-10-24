@@ -9,6 +9,6 @@ I'm a junior C++ developer from Romania passionate about game/software developme
 - Linux
 
 ## PROJECTS
-### ⛏️Golden Town - https://github.com/Dezdemod/GoldenTown
+#### ⛏️Golden Town - https://github.com/Dezdemod/GoldenTown
 
-### ♠️Blackjack  - https://github.com/Dezdemod/Blackjack
+#### ♠️Blackjack  - https://github.com/Dezdemod/Blackjack
