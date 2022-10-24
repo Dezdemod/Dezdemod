@@ -3,6 +3,5 @@ I'm a junior C++ developer from Romania passionate about game/software developme
 
 ## Projects
 Golden Town - 2022 https://github.com/Dezdemod/GoldenTown
-C++ game made with Raylib
 
 Blackjack - 2022 https://github.com/Dezdemod/Blackjack
