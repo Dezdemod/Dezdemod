@@ -1,3 +1,2 @@
 # Apostol Stefan
-
-## Junior C++ Developer
+Junior C++ Developer
