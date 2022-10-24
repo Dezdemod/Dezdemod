@@ -8,7 +8,6 @@ I'm a junior C++ developer from Romania passionate about game/software developme
 - C
 - Linux
 
-
 ## PROJECTS
 Golden Town (2022) - https://github.com/Dezdemod/GoldenTown
 
